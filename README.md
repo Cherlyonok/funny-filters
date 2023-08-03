@@ -12,7 +12,7 @@ Arguments:
 
 FILTERS (with my picture 💅💅💅):
 
-(https://github.com/Cherlyonok/funny-filters/raw/main/pics/me.bmp)
+![me](https://github.com/Cherlyonok/funny-filters/raw/main/pics/me.bmp)
 
 CROP - crops the image by given width and height
 
