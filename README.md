@@ -14,7 +14,13 @@ FILTERS (with my picture 💅💅💅):
 
 ![me](https://github.com/Cherlyonok/funny-filters/raw/main/pics/me.bmp)
 
+<image
+	src="https://github.com/Cherlyonok/funny-filters/raw/main/pics/me.bmp"
+	alt="me - #NO FILTERS"
+	height = "1000"
+	width = "1000g">
+
 CROP - crops the image by given width and height
 
-`./pics/me.bmp ./pics/crop.bmp -crop 1000 1000`
+`pics/me.bmp pics/crop.bmp -crop 1000 1000`
 
