@@ -101,7 +101,7 @@ blurs image using [Gaussian Blur](https://en.wikipedia.org/wiki/Gaussian_blur)  
 	width = "500"
 	class="center">
 	
-###GRADIENT
+### GRADIENT
 
 turns image into gradient (r g b available only)
 
@@ -136,7 +136,7 @@ turns image into gradient (r g b available only)
 	class="center">
 	
 	
-###COMBO
+### COMBO
 
 u can also combine different filters
 
