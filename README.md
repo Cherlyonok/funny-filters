@@ -13,21 +13,25 @@ Arguments:
 FILTERS (with my picture 💅💅💅):
 
 
-<image
+<p style="text-align:center;"><image
 	src="https://github.com/Cherlyonok/funny-filters/raw/main/pics/me.bmp"
 	alt="me - #NO FILTERS"
 	height = "500"
 	width = "500"
 	class="center">
 
-CROP - crops the image by given width and height
+#### CROP 
+crops the image by given width and height
 
 `pics/me.bmp pics/crop.bmp -crop 1000 1000`
 
 	
-<image
+<p style="text-align:center;"><image
 		src="https://github.com/Cherlyonok/funny-filters/raw/main/pics/crop.bmp"
 		alt="me - #NO FILTERS"
 		height = "500"
 		width = "500"
 		class="center">
+		
+		
+		
