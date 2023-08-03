@@ -17,8 +17,8 @@ FILTERS (with my picture 💅💅💅):
 <image
 	src="https://github.com/Cherlyonok/funny-filters/raw/main/pics/me.bmp"
 	alt="me - #NO FILTERS"
-	height = "1000"
-	width = "1000g">
+	height = "500"
+	width = "500">
 
 CROP - crops the image by given width and height
 
